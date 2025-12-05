@@ -216,17 +216,6 @@ Expected AI Output:
 “Based on the visual details, the image shows a dog. Its ears, muzzle shape, and fur pattern are consistent with a domesticated canine.”
 
 
-# 13. Image Generator (Extra Module)
-
-The same screen can include:
-
-A second API Call for image generation
-
-Text prompt → Image output
-
-Generated image displayed inside Flutterflow using Image.network()
-
-
 # Conclusion
 
 The Image Interpretation: Visual Helper project demonstrates how to:
