@@ -1,0 +1,19 @@
+key: Text_20d05g7e
+type: Text
+props:
+  text:
+    themeStyle: BODY_MEDIUM
+    selectable: false
+    textValue:
+      inputValue: Discribe the Image
+    fontSizeValue:
+      inputValue: 20
+  padding:
+    type: FF_PADDING_ALL
+    allValue:
+      inputValue: 40
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -1

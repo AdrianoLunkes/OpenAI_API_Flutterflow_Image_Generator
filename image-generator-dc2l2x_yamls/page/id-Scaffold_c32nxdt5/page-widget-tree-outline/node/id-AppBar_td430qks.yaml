@@ -1,0 +1,15 @@
+key: AppBar_td430qks
+type: AppBar
+props:
+  appBar:
+    templateType: LARGE_HEADER
+    titleInFlexibleSpaceBar: false
+    defaultBackButtonValue:
+      inputValue: false
+    backgroundColorValue:
+      inputValue:
+        value: "4278351382"
+    elevationValue:
+      inputValue: 2
+    centerTitleValue:
+      inputValue: false

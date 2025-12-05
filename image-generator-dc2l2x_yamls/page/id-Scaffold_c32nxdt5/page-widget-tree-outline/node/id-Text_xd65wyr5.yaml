@@ -1,0 +1,17 @@
+key: Text_xd65wyr5
+type: Text
+props:
+  text:
+    themeStyle: HEADLINE_MEDIUM
+    textValue:
+      inputValue: Image Generator Project
+    fontSizeValue:
+      inputValue: 22
+    colorValue:
+      inputValue:
+        value: "4294967295"
+  alignment:
+    xValue:
+      inputValue: 0
+    yValue:
+      inputValue: -1

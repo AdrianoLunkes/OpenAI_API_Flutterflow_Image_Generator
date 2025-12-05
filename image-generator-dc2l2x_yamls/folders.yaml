@@ -1,0 +1,5 @@
+rootFolders:
+  - key: 01i47djh
+    name: pages
+widgetClassKeyToFolderKey:
+  Scaffold_c32nxdt5: 01i47djh
