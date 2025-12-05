@@ -1,6 +1,6 @@
 # Project Three – Image Generator (OpenAI + Flutterflow)
 # Quick Short Project 
-This project integrates OpenAI’s latest image generation API (gpt-image-1) into FlutterFlow. Users type a prompt → instantly get high-quality, customizable images
+This project integrates OpenAI’s latest image generation API (gpt-image-1) into FlutterFlow. Users type a prompt → instantly get high-quality, customizable images || Link (https://image-generator-dc2l2x.flutterflow.app/)
 
 
 # 1. Project Explanation
